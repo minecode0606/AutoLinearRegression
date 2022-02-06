@@ -10,7 +10,7 @@ import tkinter as tk
 # ==================
 # function
 # ==================
-def frame_GUI(instance):
+def frame_gui(instance):
     """
     이 함수는 GUI를 구성하는 화면의 틀을 설정합니다.
     :param instance:

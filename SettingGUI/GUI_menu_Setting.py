@@ -2,7 +2,6 @@
 # imports
 # ==================
 
-from distutils import command
 import tkinter as tk
 
 # ==================
@@ -22,7 +21,7 @@ def show_license():
 # ==================
 
 
-def menu_GUI(instance):
+def menu_gui(instance):
 
     menu = tk.Menu(instance)
 
